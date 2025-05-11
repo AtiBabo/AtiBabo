@@ -38,14 +38,6 @@
 
 ---
 
-## ❄️잡소리
-
-완성은 드물고, 시도는 많습니다.  
-
-> 📍 새벽 2시와 커피 사이
-
----
-
 ## 📃 연락
 ![Gmail](https://img.shields.io/badge/Gmail-keh09523@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)<br>
 ![Discord](https://img.shields.io/badge/Discord-itcomputer-5865F2?style=for-the-badge&logo=discord&logoColor=white)
