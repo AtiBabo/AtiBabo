@@ -15,6 +15,7 @@
 |------------------|------------------|------------------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white) | ![Tkinter](https://img.shields.io/badge/Tkinter-%23121011?style=for-the-badge&logo=python&logoColor=white) |
 | ![GodotScript](https://img.shields.io/badge/GodotScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |  |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | | |
 
 <br>
 
