@@ -39,5 +39,4 @@
 ---
 
 ## 📃 연락
-![Gmail](https://img.shields.io/badge/Gmail-keh09523@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)<br>
 ![Discord](https://img.shields.io/badge/Discord-itcomputer-5865F2?style=for-the-badge&logo=discord&logoColor=white)
